@@ -1,5 +1,7 @@
 # AlarmClockUseCase
+
 by Max Taylor
+
 A use case diagram for an alarm clock.
 
 *Suppose we want to develop software for an alarm clock.*
