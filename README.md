@@ -10,4 +10,4 @@ A use case diagram for an alarm clock.
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![use case diagram](https://github.com/maxtaylorr/AlarmClockUseCase/blob/master/AlarmClockUseCase.png)
